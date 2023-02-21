@@ -1,0 +1,9 @@
+[submodule "Snake-Local-Server"]
+	path = Snake-Local-Server
+	url = https://github.com/ChipChoped/Snake-Local-Server.git
+[submodule "Snake-Web-Server"]
+	path = Snake-Web-Server
+	url = https://github.com/ChipChoped/Snake-Web-Server.git
+[submodule "Snake-Client"]
+	path = Snake-Client
+	url = https://github.com/ChipChoped/Snake-Client.git
